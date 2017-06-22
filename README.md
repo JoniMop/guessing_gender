@@ -1,2 +1,2 @@
 # guessing_gender
-Guess Gender with a basic A.I scrips
+Guessing Gender with a basic A.I script
